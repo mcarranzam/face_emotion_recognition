@@ -1,0 +1,27 @@
+#!/bin/sh
+pip install absl-py==2.1.0
+pip install attrs==23.2.0
+pip install cffi==1.16.0
+pip install contourpy==1.2.1
+pip install cycler==0.12.1
+pip install flatbuffers==24.3.25
+pip install fonttools==4.53.1
+pip install jax==0.4.30
+pip install jaxlib==0.4.30
+pip install kiwisolver==1.4.5
+pip install matplotlib==3.9.1
+pip install mediapipe==0.10.14
+pip install ml-dtypes==0.4.0
+pip install numpy==2.0.0
+pip install opencv-contrib-python==4.10.0.84
+pip install opencv-python==4.10.0.84
+pip install opt-einsum==3.3.0
+pip install packaging==24.1
+pip install pillow==10.4.0
+pip install protobuf==4.25.3
+pip install pycparser==2.22
+pip install pyparsing==3.1.2
+pip install python-dateutil==2.9.0.post0
+pip install scipy==1.14.0
+pip install six==1.16.0
+pip install sounddevice==0.4.7
